@@ -3,7 +3,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-CLI-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-Web%20UI-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-Native-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Nintendo 3DS](https://img.shields.io/badge/Nintendo_3DS-Native-CC0000?style=for-the-badge&logo=nintendo3ds&logoColor=white)
 ![Save Editor](https://img.shields.io/badge/Tool-Save%20Editor-blueviolet?style=for-the-badge)
 
 A tool for encrypting, decrypting, editing, diffing, exporting, and scanning Yo-kai Watch save files (`.yw` / `.ywd`).
