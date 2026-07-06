@@ -15,7 +15,7 @@ Supports all variants, including ports, versions, and regions of Yo-kai Watch 1 
 ![Browser](https://img.shields.io/badge/Browser-Web%20UI-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-CLI-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ### Node.js CLI
-The core code - requires Node.js and npm. See [`save/README.md`](save/README.md) for installation and command reference.
+This constitutes the core of the save editor, requires Node.js for obvious reasons. See [`save/README.md`](save/README.md) before use.
 * Mainly intended for debugging, and use in other tools. For instance, if you want to make a tool to randomise a save, you would use the CLI for all the parsing, decrypting, mapping etc.
 > **This is NOT for most people. Use the HTML5 UI or the C++ 3DS Build**.
 ### HTML5 UI
