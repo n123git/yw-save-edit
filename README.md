@@ -33,6 +33,7 @@ Runs directly on hardware.
 > This is unfinished, and will likely be released as a part of v1.1.
 
 ## Save File Basics
+> **Please** follow proper proceedure; **make a backup** before you save edit. If any corruption is caused, you may DM @n123original on discord for help, but I cannot guarantee that corruption is restorable. *Use this tool at your own risk*.
 
 The main save files in 3DS Yo-kai Watch games are:
 
@@ -68,9 +69,14 @@ Schema files (`.json5`) map and document the fields and structs within each save
 - [X] Nearly completely map out YW2 save files
 - [X] Map out key regions of YW2 header files
 - [X] Complete feature parity with Togenyan's editor for YW1
-- [X] Improve schema system with version handling, special `id` handling, and raw `bitarray` and `bytearray` types
+- [X] Improve schema system with version handling, `id` handling, and raw `bitarray` and `bytearray` types
 - [X] Switch to JSON5 exports by default
 - [X] Fix header support, with version and game detection for YW1, YW2, YWB, YW3, and YWB2 header files
+- [X] RE `GENERIC_HANDLE` (togenyan did not do this properly) and create handle parsing and generation code.
+- [X] RE V1 SramIO containers for 1m
+- [X] RE V2 SramIO containers for 1m
+- [X] Write SramIO container code
+- [ ] Test a vulnerability in DWE's implementation of SramIO, and find any potential use for it
 - [ ] Map out 30% of YW1 save files
 - [ ] Map out key regions of YW1 header files
 - [ ] Add support for YWB
