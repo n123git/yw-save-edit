@@ -7,7 +7,7 @@
 
 A tool for encrypting, decrypting, editing, diffing, exporting, and scanning Yo-kai Watch save files (`.yw` / `.ywd`).
 
-Supports all variants, including ports, versions, and regions of Yo-kai Watch 1 (3DS, Switch, Smartphone), Yo-kai Watch: Gerapo Rhythm and Yo-kai Watch 2.
+Supports all variants, including ports, versions, and regions of Yo-kai Watch 1 (3DS, Switch, Smartphone), Yo-kai Gerapo Rhythm and Yo-kai Watch 2.
 > Yo-kai Watch Blasters, Yo-kai Watch 3, Yo-kai Watch Busters 2, and Yo-kai Sangokushi are all planned, but do not have complete support. 
 
 ## Versions
