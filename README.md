@@ -37,6 +37,7 @@ Runs directly on hardware.
 
 The main save files in 3DS Yo-kai Watch games are:
 
+- `game0.yw` - Backup save slot, exclusively used in *Yo-kai Watch 1 for Smartphone*.
 - `game1.yw` - Main save data for slot 1.
 - `game2.yw` - Main save data for slot 2.
 - `game3.yw` - Main save data for slot 3 *(not present in YW3 or YWB2)*.
