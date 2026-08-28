@@ -7,8 +7,8 @@
 
 A tool for encrypting, decrypting, editing, diffing, exporting, and scanning Yo-kai Watch save files (`.yw` / `.ywd`).
 
-Supports all variants, including ports, versions, and regions of Yo-kai Watch 1 (3DS, Switch, Smartphone) and Yo-kai Watch 2.
-> Yo-kai Watch Blasters, Yo-kai Watch 3, Yo-kai Watch Busters 2, Yo-kai Watch: Gerapo Rhythm, and Yo-kai Sangokushi are all planned, but do not have complete support. 
+Supports all variants, including ports, versions, and regions of Yo-kai Watch 1 (3DS, Switch, Smartphone), Yo-kai Watch: Gerapo Rhythm and Yo-kai Watch 2.
+> Yo-kai Watch Blasters, Yo-kai Watch 3, Yo-kai Watch Busters 2, and Yo-kai Sangokushi are all planned, but do not have complete support. 
 
 ## Versions
 ![Nintendo 3DS](https://img.shields.io/badge/Nintendo_3DS-Native-CC0000?style=for-the-badge&logo=nintendo3ds&logoColor=white)
@@ -76,11 +76,18 @@ Schema files (`.json5`) map and document the fields and structs within each save
 - [X] RE V1 SramIO containers for 1m
 - [X] RE V2 SramIO containers for 1m
 - [X] Write SramIO container code
+- [X] RE YGR .s files
+- [X] Confirm all integrity checks found
+- [X] Confirm write works
+- [X] Create YGR schema
+- [X] Write YGR documentation
+- [X] Finish YGR support
+- [X] Work on UI
+- [ ] Release YGR documentation
 - [ ] Test a vulnerability in DWE's implementation of SramIO, and find any potential use for it
 - [ ] Map out 30% of YW1 save files
 - [ ] Map out key regions of YW1 header files
 - [ ] Add support for YWB
-- [ ] Work on HTML5 UI
 - [ ] Work on mod support
 - [ ] Pretend to release it
 - [ ] Actually release it
