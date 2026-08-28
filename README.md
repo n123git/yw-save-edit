@@ -19,7 +19,7 @@ This constitutes the core of the save editor, requires Node.js for obvious reaso
 * Mainly intended for debugging, and use in other tools. For instance, if you want to make a tool to randomise a save, you would use the CLI for all the parsing, decrypting, mapping etc.
 > **This is NOT for most people. Use the HTML5 UI or the C++ 3DS Build**.
 ### HTML5 UI
-Built from the CLI source files in `save/` too. Open the output in any modern browser, including mobile. See [`save/README.md`](save/README.md) for build instructions.
+Built from the CLI source files in `save/` too. Open the output in any modern browser, including mobile. Use `npm run build` to compile.
 * This runs on all platforms with support for a modern browser, this includes:
   * Windows
   * Linux
